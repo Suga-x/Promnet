@@ -1,0 +1,31 @@
+body {
+  min-height: auto;
+}
+#about {
+  background-color: #dedede;
+  border-radius: 25px;
+  margin-bottom: 1em;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+.card {
+  height: 35em;
+  background-color: #d8e3e7;
+  border-radius: 30px;
+}
+#fakultas {
+  width: 18rem;
+  height: auto;
+}
+#tombol-Berita {
+  background-color: #126e82;
+  padding: 12px 28px;
+  width: 18em;
+  text-align: center;
+  margin: 0 auto;
+  margin-bottom: 2em;
+}
+#footer-upi {
+  margin-top: 5em;
+  margin-bottom: 5em;
+}
